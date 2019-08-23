@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WhatsAppStatusSaver</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="no_images_saved">No images saved</string>
+    <string name="no_images_recent">No recent status images found</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="msg_alert_delete_item_confirm">Item will be removed from saved list. Are you sure?</string>
+    <string name="msg_alert_status_delete_item_confirm">Item will be removed from WhatsApp Status. Are you sure?</string>
+    <string name="title_delete_confirm_dialog">Confirm</string>
+    <string name="share">Share</string>
+    <string name="repost">Repost</string>
+
+    <string name="service_label">NotificationHistoryService</string>
+
+    <!-- Strings related to the Alert Dialog -->
+    <string name="notification_listener_service">"Notification Listener Service"</string>
+    <string name="notification_listener_service_explanation">"For the the app. to work you need to enable the Notification Listener Service. Enable it now?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
